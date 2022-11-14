@@ -1,0 +1,60 @@
+[submodule "djTaskBrocker"]
+	path = djTaskBrocker
+	url = https://github.com/TaskBrocker/djTaskBrocker.git
+	branch = master
+[submodule "pullgerAccountManager"]
+	path = pullgerAccountManager
+	url = https://github.com/Pullger/pullgerAccountManager.git
+	branch = BBB
+[submodule "pullgerAccountManager__REST"]
+	path = pullgerAccountManager__REST
+	url = https://github.com/Pullger/pullgerAccountManager__REST.git
+	branch = BBB
+[submodule "pullgerAuthJWT"]
+	path = pullgerAuthJWT
+	url = https://github.com/Pullger/pullgerAuthJWT.git
+	branch = main
+[submodule "pullgerDataSynchronization"]
+	path = pullgerDataSynchronization
+	url = https://github.com/Pullger/pullgerDataSynchronization.git
+	branch = BBB
+[submodule "pullgerInternalControl"]
+	path = pullgerInternalControl
+	url = https://github.com/Pullger/pullgerInternalControl.git
+	branch = BBB
+[submodule "pullgerMultiSessionManager"]
+	path = pullgerMultiSessionManager
+	url = https://github.com/Pullger/pullgerMultiSessionManager.git
+	branch = BBB
+[submodule "pullgerMultiSessionManager__REST"]
+	path = pullgerMultiSessionManager__REST
+	url = https://github.com/Pullger/pullgerMultiSessionManager__REST.git
+	branch = BBB
+[submodule "pullgerSquirrel"]
+	path = pullgerSquirrel
+	url = https://github.com/Pullger/pullgerSquirrel.git
+	branch = BBB
+[submodule "pullgerDevelopmentFramework"]
+	path = pullgerDevelopmentFramework
+	url = https://github.com/Pullger/pullgerDevelopmentFramework.git
+	branch = NeoUKR
+[submodule "pullgerDataSynchronization__REST"]
+	path = pullgerDataSynchronization__REST
+	url = https://github.com/Pullger/pullgerDataSynchronization__REST.git
+	branch = NeoUKR
+[submodule "pullgerReflection/org__bbb__REST"]
+	path = pullgerReflection/org__bbb__REST
+	url = https://github.com/PullgerReflection/org__bbb__REST.git
+	branch = NeoUKR
+[submodule "pullgerReflection/org__bbb"]
+	path = pullgerReflection/org__bbb
+	url = https://github.com/PullgerReflection/org__bbb.git
+	branch = NeoUKR
+[submodule "pullgerDomain/org/bbb"]
+	path = pullgerDomain/org/bbb
+	url = https://github.com/PullgerDomain/com--bbb.git
+	branch = bbb
+[submodule "pullgerFootPrint/org/bbb"]
+	path = pullgerFootPrint/org/bbb
+	url = https://github.com/PullgerFootPrint/com--bbb.git
+	branch = bbb
